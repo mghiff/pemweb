@@ -5,14 +5,14 @@
 	$b = $_POST['Lebar'];
 	$c = $_POST['Tinggi'];
 		
-		function Resulting($a, $b, $c){
+    	function Resulting($a, $b, $c){
 			$total = (($a * $b) * $c)/3;
 			return $total;
 		} 
 		$total2 = Resulting($a, $b, $c);
 	}
 ?>
-
+<center>Rumus Penghitungan Volume Limas Segiempat</center>
 <form method="post" action="">    
     Ketik Panjang : <input type="text" name="Panjang"><br><br>
     Ketik Lebar : <input type="text" name="Lebar"><br><br>
