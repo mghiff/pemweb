@@ -17,6 +17,6 @@
     Ketik Panjang : <input type="text" name="Panjang"><br><br>
     Ketik Lebar : <input type="text" name="Lebar"><br><br>
     Ketik Tinggi : <input type="text" name="Tinggi"><br><br>
-    <input type="submit" value="Upload" name="submit"><br><br>
+    <input type="submit" value="Hasil" name="submit"><br><br>
    	Volume Limas Segiempat : <input type="text" name="Volume" value="<?php echo $total2 ?>">
 </form>
