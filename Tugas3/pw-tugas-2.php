@@ -10,7 +10,6 @@
 			return $total;
 		} 
 		$total2 = Resulting($a, $b, $c);
-
 	}
 ?>
 
